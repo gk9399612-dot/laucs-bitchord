@@ -1,0 +1,10 @@
+{
+  "id": "laucs.addon",
+  "name": "Laucs community addon",
+  "description": "A Community driven Addon Because why not - Permanent Version",
+  "version": "7.7.7-permanent",
+  "resources": ["search", "stream"],
+  "types": ["music"],
+  "bitchordAuth": true,
+  "behaviorHints": { "configurable": true }
+}
